@@ -38,5 +38,5 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  location.href = "http://facebook.com";
+  location.href = "index.html";
 }
