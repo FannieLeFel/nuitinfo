@@ -38,5 +38,5 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  location.href = "index.html";
+  location.href = "calendrierDeLavent/";
 }
